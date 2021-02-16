@@ -1,1 +1,10 @@
-This repository is for scheduling tooltalk.
+This repository is for scheduling tooltalk. Students are expected to schedule the tooltalk here. Please follow the procedure to confirm your tooltalk. 
+
+1. Create a repository with the follwing format --> [topicname]-#[last_name_member_1]#[last_name_member_2]..-[MM-DD-YYYY]
+2. Create a ToolTalkSummary.txt file inside the repository
+  a) If you have not done the tooltalk --> write the following line in the file 
+    "to be presented on MM-DD-YYYY" on "TopicName"
+  b) If you have done the tooltalk --> write the following line in the file
+    "presented on MM-DD-YYYY" on "TopicName"
+    followed by the list of topics covered in the tooltalk. 
+    Also upload any necessary materials used during the tooltalk. 
