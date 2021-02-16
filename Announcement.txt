@@ -8,3 +8,6 @@ This repository is for scheduling tooltalk. Students are expected to schedule th
     "presented on MM-DD-YYYY" on "TopicName"
     followed by the list of topics covered in the tooltalk. 
     Also upload any necessary materials used during the tooltalk. 
+    
+    
+NOTE: Please choose a TUESDAY while choosing a date. 
