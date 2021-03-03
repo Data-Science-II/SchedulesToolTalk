@@ -1,0 +1,3 @@
+presented on 02-09-2021" on "Python packages"
+
+Presented on python packages including numpy, pandas, matplotlib, sci-kit learn, statsmod
